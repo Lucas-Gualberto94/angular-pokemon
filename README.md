@@ -1,27 +1,22 @@
-# AngularPokemon
+# Creating a Search Pokemon using Angular
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.8.
+## A fully functional EXAMPLE project written in Angular showing how to work with HTTP requisitions
 
-## Development server
+This project is an example that was built along with an  Bootcamp offered by digital innovation one (DIO) showing how to consume a HTTP requisition using Angular.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+<img src="./src/assets/redme.png" width="400" height="550" />      
 
-## Code scaffolding
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## How to tweak this project for your own uses
+Since this is an example project, I´d encourage you to clone and rename this project to use for your own purposes.
 
-## Build
+## 📖 Useful links
+- [Bootcamp offered by DIO] (https://web.dio.me/track/7a55c727-bb2a-42a7-831b-6c38b4e83868)
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+-[Working Buzzfeed] (https://lucas-gualberto94.github.io/angular-pokemon/)
 
-## Running unit tests
+## Find a bug?
+If you found an issue or would like to submit an improvement to this project, please submit an issue using the issue tab above. If you would like to submit a PR with a fix, reference the issue you created! 
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+## Known issues (work in progress)
+This Search Pokemon is till ongoing. There are lots of information and customization that have not been completed yet. This is coming soon!
